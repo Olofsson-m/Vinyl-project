@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\Vinyl project\\collectionapi\\CollectionApi.csproj": {}
+    "D:\\Desktop\\Vinyl project\\CollectionApi\\CollectionApi.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\Vinyl project\\collectionapi\\CollectionApi.csproj": {
+    "D:\\Desktop\\Vinyl project\\CollectionApi\\CollectionApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\Vinyl project\\collectionapi\\CollectionApi.csproj",
+        "projectUniqueName": "D:\\Desktop\\Vinyl project\\CollectionApi\\CollectionApi.csproj",
         "projectName": "CollectionApi",
-        "projectPath": "D:\\Desktop\\Vinyl project\\collectionapi\\CollectionApi.csproj",
+        "projectPath": "D:\\Desktop\\Vinyl project\\CollectionApi\\CollectionApi.csproj",
         "packagesPath": "C:\\Users\\maxen\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\Vinyl project\\collectionapi\\obj\\",
+        "outputPath": "D:\\Desktop\\Vinyl project\\CollectionApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

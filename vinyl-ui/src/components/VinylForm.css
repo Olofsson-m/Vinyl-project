@@ -1,0 +1,64 @@
+.form-container {
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.group-form h1 {
+  text-align: center;
+  color: #5a7863;
+  margin-bottom: 1rem;
+}
+.group-form {
+  width: 100%;
+  max-width: 400px; /* Sätter en maxbredd så formuläret inte blir för brett */
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem; /* Luft mellan varje form-group */
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Varje grupp (label + input) */
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem; /* Utrymme mellan label och input */
+}
+
+/* Styling för labels */
+.form-group label {
+  font-weight: bold;
+  font-size: 0.9rem;
+  color: #333;
+}
+
+/* Styling för alla input-fält och select */
+.form-group input,
+.form-group select {
+  width: 100%; /* Fyller upp hela bredden i sin container */
+  padding: 0.75rem; /* Inre utrymme */
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+  box-sizing: border-box; /* Viktigt! Gör att padding inte läggs utanför bredden */
+}
+
+/* Styling för knappen */
+.group-form button {
+  background-color: #5a7863;
+  color: white;
+  padding: 0.75rem;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
+.group-form button:hover {
+  background-color: #4a6654;
+}

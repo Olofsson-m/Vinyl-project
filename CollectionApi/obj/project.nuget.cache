@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jpXbqLOY4pY=",
+  "dgSpecHash": "jvdcRM1NaIE=",
   "success": true,
-  "projectFilePath": "D:\\Desktop\\Vinyl project\\collectionapi\\CollectionApi.csproj",
+  "projectFilePath": "D:\\Desktop\\Vinyl project\\CollectionApi\\CollectionApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maxen\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\maxen\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
