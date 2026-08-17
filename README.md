@@ -26,6 +26,8 @@ CollectionApi/
 ├── appsettings.json     # Konfigurationsfiler
 ├── CollectionApi.http   # HTTP-anrop för testning direkt i IDE (t.ex. VS Code/Rider)
 └── Program.cs           # Applikationens startpunkt och DI-konfiguration
+
+
 🚀 Kom igång (Installation & Körning)
 Förutsättningar
 .NET 9 SDK installerat på maskinen.
